@@ -1,0 +1,1 @@
+I just make a word counter project using inquirer, node.js and typescript. You can enter your sentence to count the words.
